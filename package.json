@@ -1,0 +1,19 @@
+{
+  "name": "expense-tracker-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratsy91/expense-tracker-final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratsy91/expense-tracker-final/issues"
+  },
+  "homepage": "https://github.com/pratsy91/expense-tracker-final#readme"
+}
